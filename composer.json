@@ -1,5 +1,5 @@
 {
-  "name": "devgeniem/wp-multisite-same-level-subdomains",
+  "name": "swennet/wp-multisite-same-level-subdomains",
   "type": "wordpress-muplugin",
   "license": "MIT",
   "description": "This WordPress multisite plugin allows you to create subsites under the same subdomain depth as the main site.",
